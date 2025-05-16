@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "prd",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32657" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 2, "name": "Скалы \"Три брата\"" }, "geometry": { "type": "Point", "coordinates": [ 479875.147421646630391, 5859427.310544995591044 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Береза каменная" }, "geometry": { "type": "Point", "coordinates": [ 476251.235335796140134, 5875282.068160846829414 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Сопка Мишенная" }, "geometry": { "type": "Point", "coordinates": [ 475772.352850734721869, 5876955.559098088182509 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Сопка Зеркальная" }, "geometry": { "type": "Point", "coordinates": [ 477770.907999612682033, 5876885.046547319740057 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Сопка Петропавловская" }, "geometry": { "type": "Point", "coordinates": [ 476822.173005964257754, 5875425.454249399714172 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "Памятник природы регионального значения Сопка Никольская" }, "geometry": { "type": "Point", "coordinates": [ 476033.993165087129455, 5874491.315178730525076 ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "Водопады" }, "geometry": { "type": "Point", "coordinates": [ 477811.795022533740848, 5879140.926695653237402 ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "Камчаткий камень" }, "geometry": { "type": "Point", "coordinates": [ 478921.12812457914697, 5873037.846991546452045 ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "Гора Узовская" }, "geometry": { "type": "Point", "coordinates": [ 477075.594066639605444, 5867506.098269090056419 ] } },
+{ "type": "Feature", "properties": { "fid": 11, "name": "Гора Удж" }, "geometry": { "type": "Point", "coordinates": [ 480016.872998330160044, 5865765.198514460586011 ] } },
+{ "type": "Feature", "properties": { "fid": 12, "name": "Халактырский пляж" }, "geometry": { "type": "Point", "coordinates": [ 490534.230126281094272, 5872157.915178536437452 ] } }
+]
+}
